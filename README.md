@@ -18,6 +18,10 @@ There are bash scripts to run the tests. I intend to migrate them to python in t
 ./gentrace.sh
 ```
 
+```bash
+./perfStats.sh
+```
+
 ## Making Changes
 
 ## Sample Use cases 
